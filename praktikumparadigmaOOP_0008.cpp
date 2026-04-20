@@ -31,5 +31,7 @@ class barang {
         nonelektronik.tanggalproduksi = 20220102;
         nonelektronik.jumlah = 20;
 
-        
+        elektronik.printData();
+        nonelektronik.printData();
+    }
         
