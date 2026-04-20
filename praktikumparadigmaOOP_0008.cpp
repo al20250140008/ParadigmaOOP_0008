@@ -17,4 +17,13 @@ class barang {
     }  
 };
 
-   
+    int main()
+    {
+        barang elektronik;
+        barang nonelektronik;
+        elektronik.nama = "Laptop";
+        elektronik.kategori = "Elektronik";
+        elektronik.tanggalproduksi = 20220101;
+        elektronik.jumlah = 10;
+
+       
